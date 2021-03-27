@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinApplication</string>
+    <string name="back">Back</string>
+    <string name="my_button">My Button</string>
+</resources>
